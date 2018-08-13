@@ -1,0 +1,2 @@
+# szotar
+Szógyakorló program nyelvórákhoz
