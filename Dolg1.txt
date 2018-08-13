@@ -1,0 +1,90 @@
+motorh ztet‹:e Motorhaube
+s rh ny¢:r Kotflgel
+ker‚k, abroncs:r Reifen
+sz‚lv‚d‹:e Windschutzscheibe
+ablakt”rl‹:r Scheibenwischer
+visszapillant¢ tk”r:r Rckspiegel
+csomagtart¢:r Kofferraum
+rendsz mt bla:s Nummernschild
+rendsz m:s Kennzeichen
+l”kh r¡t¢:e Stoástange
+korm ny:s Lenkrad
+f‚k:e Bremse-n
+v lt¢:e Schaltung
+sebess‚g(v lt sn l):r Gangöe
+kipufog¢:r Auspuff
+mûszerfal:s Armaturenbrett
+index:r Blinker
+f‚nysz¢r¢:r Scheinwerfer
+bizt.”v.:e Sicherheitsgurt-e
+sluszkulcs:r Zndlichschlssel
+elektronikus ablakemel‹:r elektronische Fensterheber
+ ll¡that¢ sof‹rl‚s:h”herverstellbarer Fahrersitz
+l‚gkondi:e Klimaanlage
+napf‚nytet‹:s Hub-Schiebedach
+l‚gzs k:s Airbag
+szerv¢korm ny:e Servolenkung
+ABS:s Antiblockierende Bremssystem
+fed‚lzeti comp.:r Boardcomputer
+sportkocsi:r Sportwagen
+ami‚rt fizetni kell:e Gebhr-en
+aut¢p lyad¡j:e Maut-en
+fizet‹s aut¢p lya:mautpflichtig
+fizet‹hely:e Mautstelle-n
+k”vet‹t vols g:r Abstand
+halad¢s v:e Fahrspur-en
+k‚ts vos:zweispurig
+le ll¢s v:e Standspur-en
+cs”kkenteni:verringern
+csengeni:schrillen
+k”zp‚nz:”ffentliches Geld
+nagyszerû, csod latos:herrlich
+t‚velyg‚s:herumirren
+hang:e Stimme-n
+ lland¢an:stet
+gy£jt s:e Zndung
+mihelyt:sobald
+pihen‹hely:e Rastst„tte-n
+korm nyozni:lenken
+kp.n‚lkl:s Bargeld
+f‹£t:e Hauptstrasse
+k”rforg¢:r Kreisverkehr
+k”zl.l mpa:e Verkehrsampel
+elterel‚s:e Unleitung-en
+felhajt¢s v:e Einfahrt
+‚p¡tkez‚s:e Baustelle
+lehajt¢s v:e Ausfahrt
+sebess‚g:s Tempo
+1ir ny£ £t:e Einbahnstrasse
+lerobban:Panne haben
+alkalmazkodni:anpassen
+k”leked‚si kih g s, szab lys‚rt‚s:s Delikt-e
+buk¢sisak:Sturchelm
+£ttest:Fahrbahn
+els‹ l‚s:r Vordersitz-e
+vezet‹ melletti l‚s:r Beifahrersitz-e
+h ts¢ l‚s:r Rcksitz
+helyztejelz‹:s Standlicht-er
+g zped l:s Gaspedal-e
+mûk”d‚sbe hoz:best„tigen
+kuplung:e Kupplung-en
+”nind¡t¢:r Anlasser
+szivat¢:r Choke-n
+beindul a motor:anspringen
+szemle:e Inspection-en
+aut¢ment‹:e Pannenhilfe-n
+ker‚knyom s:r Reifendrucköe
+aksi:e Batterie-n
+benzin:s Ersatzteil
+mell‚k£t:r Seitenweg
+alulj r¢:e Unterfhrung-en
+km.k‹:r Kilometerstein-e
+helys‚gt bla:e Ortstafel
+km/h:r Stundenkilometer
+els‹bbs‚g:e Vorfahrt-en
+utol‚r:einholen
+baleset:r Unfallöe
+faral s, megcs£sz s:s Schleudern
+tk”zik:prallen
+sebeslt:r Verletzte-n
+roncs:s Wrack-e

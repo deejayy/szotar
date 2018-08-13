@@ -1,0 +1,29 @@
+‚rte megy, elhoz:abholen +T
+szks‚ge van vmire:brauchen +T
+(meg)v laszol valamit:beantworten +T
+bel‚p vhov :betreten +T
+van, l‚tezik vmi, vhol:es gibt +T
+van vkinek vmilye:haben +T
+f‚rjhez megy, megn‹sl:heiraten +T
+kerl vkinek vmibe:kosten +T+T
+nevezni vkit vminek:nennen +T+T
+csatlakozik vmihez, vkihez:sich anschliessen +R
+hasonl¡t vkire, vmire:„hneln +R
+tal lkozik vkivel:begegnen +R
+megtan¡t vkit vmire:beibringen +R
+mell‚kel vmihez vmit:beilegen +R
+szolg l vmit:dienen +R
+fenyeget vkit:drohen +R
+esz‚be jutni vkinek vmi:einfallen +R
+k”vet vkit:folgen +R
+valaki‚:geh”ren +R
+k”zeledik:sich n„hern +R
+¡zlik vkinek vmi:schmecken +R
+hisz vminek/vkinek:trauen +R
+megel‹z vmit:vorbeugen +R
+odafigyel, hallgat vkire:zuh”ren +R
+megk¡n l vkit vmivel:anbieten +R+T
+k”z”l vkivel vmit:mitteilen +R+T
+ellop vkit‹l vmit:stehlen +R+T
+megeml‚kezik vkir‹l vmir‹l:gedenken +B
+sz‚gyenkezik vmi miatt:sich sch„men +B
